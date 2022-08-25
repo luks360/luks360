@@ -1,4 +1,4 @@
-### Welcome, I'm Lucas 👋
+# Welcome, I'm Lucas 👋
 
 💻 I'm Front-End and Back-End Developer; <br/>
 
