@@ -8,8 +8,6 @@
 <br/>
 <br/>
 ![Luks360's GitHub stats](https://github-readme-stats.vercel.app/api?username=luks360&show_icons=true&theme=midnight-purple)
-<br/>
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luks360&layout=compact&theme=midnight-purple&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
